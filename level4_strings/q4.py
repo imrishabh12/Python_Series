@@ -1,0 +1,13 @@
+# Q4. Check whether a string is a palindrome.
+
+text = input("Enter a string: ")
+
+reverse = ""
+
+for char in text:
+    reverse = char + reverse
+
+if text == reverse:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
