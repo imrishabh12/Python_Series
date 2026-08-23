@@ -1,0 +1,5 @@
+# Q1. Create a list of squares using list comprehension.
+
+squares = [i ** 2 for i in range(1, 11)]
+
+print(squares)
