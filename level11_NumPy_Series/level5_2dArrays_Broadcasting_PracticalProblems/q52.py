@@ -1,4 +1,4 @@
-# Q54 - Find the unique elements in a NumPy array and count how many times each element appears.
+# Q52 - Find the unique elements in a NumPy array and count how many times each element appears.
 
 import numpy as np
 
